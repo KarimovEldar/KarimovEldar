@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
 
-I'm **Eldar Karimov**, I am a student at Baku State University. I'm 20 years old and enthusiastic about building mobile applications. Currently, I'm honing my Android development skills and exploring the endless possibilities of mobile technology.
+I'm **Eldar Karimov**, a 20-year-old student at Baku State University, passionate about building mobile applications using Kotlin. Currently, I'm honing my Android development skills and exploring the endless possibilities of mobile technology.
 
 ## 🚀 Skills
 
 - **Languages:** Kotlin
 - **Tools & Technologies:** Android Studio, REST APIs, Firebase
-- **Other Skills:** Problem-solving.
+- **Development Skills:**  Problem-solving, utilizing Navigation Component, implementing Room for local data storage, integrating LiveData and ViewModel for architecture, managing app lifecycle, working with Retrofit for network requests, implementing Coroutines for asynchronous programming, and utilizing Firebase services for various functionalities.
 
 ## 🌱 What I'm Learning
 
@@ -19,11 +19,8 @@ I'm currently working on improving my skills in:
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/karimoveldar/)
-
-
-<h2>Contact Information</h2>
-<p>Email: eldarkarimovjob@gmail.com</p>
-<p>Phone number: (+994) 10 525 14 04</p>
+- LinkedIn: [karimoveldar](https://www.linkedin.com/in/karimoveldar/)
+- Email: eldarkarimovjob@gmail.com
+- Phone number: (+994) 10 525 14 04
 
 Happy coding!
