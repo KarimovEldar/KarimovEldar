@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Eldar Karimov], I am a student at Baku State University. I'm 20 years old and enthusiastic about building mobile applications. Currently, I'm honing my Android development skills and exploring the endless possibilities of mobile technology.
+I'm **Eldar Karimov**, I am a student at Baku State University. I'm 20 years old and enthusiastic about building mobile applications. Currently, I'm honing my Android development skills and exploring the endless possibilities of mobile technology.
 
 ## 🚀 Skills
 
