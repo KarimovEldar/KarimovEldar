@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Eldar Karimov**, a 20-year-old student at Baku State University, interested in developing mobile applications using Kotlin. Currently, I am working on my Android development skills and exploring the endless possibilities of mobile technology.
+I'm **Eldar Karimov**, a 21-year-old student, interested in developing mobile applications using Kotlin. Currently, I am working on my Android development skills and exploring the endless possibilities of mobile technology.
 
 ## 🚀 Skills
 
