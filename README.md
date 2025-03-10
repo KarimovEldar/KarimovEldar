@@ -12,7 +12,6 @@ I'm **Eldar Karimov**, a 21-year-old student, interested in developing mobile ap
 
 I'm currently working on improving my skills in:
 
-- [ ] Clean Architecture
 - [ ] Dependency Injection with Dagger/Hilt
 - [ ] Material Design Guidelines
 
