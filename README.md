@@ -14,7 +14,6 @@ I'm currently working on improving my skills in:
 
 - [ ] Clean Architecture
 - [ ] Dependency Injection with Dagger/Hilt
-- [ ] Android Jetpack components (ViewModel, LiveData, Room)
 - [ ] Material Design Guidelines
 
 ## 🤝 Let's Connect!
